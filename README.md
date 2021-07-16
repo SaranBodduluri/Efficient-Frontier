@@ -51,7 +51,7 @@ Let's assume a risk-seeking investor uses this efficient frontier to select inve
 ---
 I came across this concept while I was doing the financial markets course on Coursera. I thought it will be interesting to plot the frontier myself. So, I did this porject!  
 I tried to explain the concept of efficient frontier with just a simple portfolio consisting of just two stocks. I hope you have enjoyed reading this.\
-This theory has made many assumptions that are not true in the reality. However, this concept depicts the tremendous benefit of diversification.
+This theory has made many assumptions that are not true in the reality. However, this concept depicts the tremendous benefit of diversification. I encourage you to explore the assumptions and their repurcussions if you are interested.
 
 Feedback and suggestions are most welcome.\
 Data Sources: Yahoo Finance.\
