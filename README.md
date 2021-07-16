@@ -1,4 +1,4 @@
-# Efficient Frontier
+# The Efficient Frontier
 
 Efficient Frontier is the set of optimal portfolios that offer the highest expected return for a defined level of risk or\
 the lowest risk for a given level of expected return.
