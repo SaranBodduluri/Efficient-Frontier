@@ -3,7 +3,7 @@
 Efficient Frontier is the set of optimal portfolios that offer the highest expected return for a defined level of risk or\
 the lowest risk for a given level of expected return.
 
-In this project, I explore the efficient frontier of a two-stock portfolio consisting of arguably two of the most popular stocks rn, Tesla (NASDAQ: TSLA) and Apple (NASDAQ: AAPL).
+In this project, I explore the efficient frontier of a two-stock portfolio consisting of arguably two of the most popular stocks as of now, Tesla (NASDAQ: TSLA) and Apple (NASDAQ: AAPL).
 
 Here is the <a href="https://public.tableau.com/app/profile/saran6744/viz/EfficientfrontierforAAPLTSLA/Theefficientfrontier_1" rel="nofollow" target="_blank" >Link</a> to my visualization.
 
