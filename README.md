@@ -36,15 +36,18 @@ As you can see, there is a great covariance between the two stocks.
 Now, let's graph the efficient frontier.\
 For this, I have considered ten combinations of the two stocks. Starting with 0% TSLA and 100% AAPL and then incrementing ten in TSLA in the subsequent combinations.
 I have calculated the standard deviations and returns of each combination. Finally plotting Returns on the Y-axis and Risk on the X-axis.
-<!--
-![efficient frontier](img/efffron.png)
+
+![efficient frontier](https://user-images.githubusercontent.com/73103188/125992346-76324f1e-7cfe-4d4e-b8ac-09ecc2dc357a.png)
  
  
 Here, portfolios that lie below the efficient frontier are sub-optimal because they do not provide enough return for the level of risk. Portfolios that cluster to the right of the efficient frontier are sub-optimal because they have a higher level of risk for the defined rate of return.
 
 Let's assume a risk-seeking investor uses this efficient frontier to select investments. The investor would select securities that lie on the right end of the efficient frontier. The right end of the efficient frontier includes securities that are expected to have a high degree of risk coupled with high potential returns. Conversely, securities that lie on the left end of the efficient frontier would be suitable for risk-averse investors.
 
-<!--
+
+
+
+
 ---
 I came across this concept while I was doing the financial markets course on Coursera. I thought it will be interesting to plot the frontier myself. So, I did this porject!  
 I tried to explain the concept of efficient frontier with just a simple portfolio consisting of just two stocks. I hope you have enjoyed reading this.\
