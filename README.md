@@ -5,7 +5,7 @@ the lowest risk for a given level of expected return.
 
 In this project, I explore the efficient frontier of a two-stock portfolio consisting of arguably two of the most popular stocks rn, Tesla (NASDAQ: TSLA) and Apple (NASDAQ: AAPL).
 
-Here is the <a href=https://public.tableau.com/app/profile/saran6744/viz/EfficientfrontierforAAPLTSLA/Theefficientfrontier_1 target='_blank'>Link</a> to my visualization.
+Here is the <a href=https://public.tableau.com/app/profile/saran6744/viz/EfficientfrontierforAAPLTSLA/Theefficientfrontier_1 target="_blank" >Link</a> to my visualization.
 
 
 ## How do we graph the efficient frontier?
