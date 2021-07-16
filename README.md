@@ -36,7 +36,7 @@ As you can see, there is a great covariance between the two stocks.
 Now, let's graph the efficient frontier.\
 For this, I have considered ten combinations of the two stocks. Starting with 0% TSLA and 100% AAPL and then incrementing ten in TSLA in the subsequent combinations.
 I have calculated the standard deviations and returns of each combination. Finally plotting Returns on the Y-axis and Risk on the X-axis.
-
+<!--
 ![efficient frontier](img/efffron.png)
  
  
