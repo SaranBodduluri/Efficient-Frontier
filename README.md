@@ -29,7 +29,8 @@ The red line in the chart denotes the price movements of tesla.
 Apple seems to more stable and less volatile than tesla.\
 Another way to understand the volatility and covariance of the stocks is plotting monthly returns.
 
-![monthly returns](img/returns.png)
+![monthly returns](https://user-images.githubusercontent.com/73103188/127762695-31860482-4b90-42d0-afcf-a282ca1f6536.png)
+
 
 As you can see, there is a great covariance between the two stocks.
 
