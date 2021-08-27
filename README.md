@@ -56,4 +56,4 @@ This theory has made many assumptions that are not true in the reality. However,
 
 Feedback and suggestions are most welcome.\
 Data Sources: Yahoo Finance.\
-Refernces: Investopedia.
+References: Investopedia.
