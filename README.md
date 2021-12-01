@@ -5,7 +5,7 @@ the lowest risk for a given level of expected return.
 
 In this project, I explore the efficient frontier of a two-stock portfolio consisting of arguably two of the most popular stocks as of now, Tesla (NASDAQ: TSLA) and Apple (NASDAQ: AAPL).
 
-Here is the <a href="https://public.tableau.com/app/profile/saran6744/viz/EfficientfrontierforAAPLTSLA/Theefficientfrontier_1" rel="nofollow" target="_blank" >Link</a> to my visualization.
+Here is the <a href="https://public.tableau.com/views/EfficientfrontierforAAPLTSLA/Theefficientfrontier?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" rel="nofollow" target="_blank" >Link</a> to my visualization.
 
 
 ## How do we graph the efficient frontier?
@@ -32,17 +32,17 @@ Another way to understand the volatility and covariance of the stocks is plottin
 ![monthly returns](https://user-images.githubusercontent.com/73103188/127762695-31860482-4b90-42d0-afcf-a282ca1f6536.png)
 
 
-As you can see, there is a great covariance between the two stocks.
+As you can see, there is a great covariance between the two stocks. (It will be 0.02419552 to be precise.) 
+
 
 Now, let's graph the efficient frontier.\
 For this, I have considered ten combinations of the two stocks. Starting with 0% TSLA and 100% AAPL and then incrementing ten in TSLA in the subsequent combinations.
 I have calculated the standard deviations and returns of each combination. Finally plotting Returns on the Y-axis and Risk on the X-axis.
 
-![efficient frontier](https://user-images.githubusercontent.com/73103188/125992346-76324f1e-7cfe-4d4e-b8ac-09ecc2dc357a.png)
 ![image](https://user-images.githubusercontent.com/73103188/144322294-ae316e66-6ca0-4f90-9d8f-849103256665.png)
 
  
-Here, portfolios that lie below the efficient frontier are sub-optimal because they do not provide enough return for the level of risk. Portfolios that cluster to the right of the efficient frontier are sub-optimal because they have a higher level of risk for the defined rate of return.
+Here, portfolios that lie below the efficient frontier (starting from 7.63% point) are sub-optimal because they do not provide enough return for the level of risk. Portfolios that cluster to the right of the efficient frontier are sub-optimal because they have a higher level of risk for the defined rate of return.
 
 Let's assume a risk-seeking investor uses this efficient frontier to select investments. The investor would select securities that lie on the right end of the efficient frontier. The right end of the efficient frontier includes securities that are expected to have a high degree of risk coupled with high potential returns. Conversely, securities that lie on the left end of the efficient frontier would be suitable for risk-averse investors.
 
