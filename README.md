@@ -39,7 +39,8 @@ For this, I have considered ten combinations of the two stocks. Starting with 0%
 I have calculated the standard deviations and returns of each combination. Finally plotting Returns on the Y-axis and Risk on the X-axis.
 
 ![efficient frontier](https://user-images.githubusercontent.com/73103188/125992346-76324f1e-7cfe-4d4e-b8ac-09ecc2dc357a.png)
- 
+![image](https://user-images.githubusercontent.com/73103188/144322294-ae316e66-6ca0-4f90-9d8f-849103256665.png)
+
  
 Here, portfolios that lie below the efficient frontier are sub-optimal because they do not provide enough return for the level of risk. Portfolios that cluster to the right of the efficient frontier are sub-optimal because they have a higher level of risk for the defined rate of return.
 
